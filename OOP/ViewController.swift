@@ -14,8 +14,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("This is my first commit")
+        print("This is second update")
     }
-
-
+    
+    func sum() {
+        
+    }
 }
 
